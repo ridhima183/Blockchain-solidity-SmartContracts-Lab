@@ -3,7 +3,6 @@
 A collection of beginner-to-intermediate **Solidity smart contracts** written and tested as part of blockchain lab coursework. Each contract demonstrates a core Web3 concept — tokens, NFTs, voting, escrow, DAOs, multisig wallets, and more — in a single, self-contained file.
 
 ![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.0-363636?logo=solidity)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Educational-blue)
 
 ---
@@ -111,6 +110,8 @@ These contracts are written for **educational purposes** as part of lab coursewo
 
 ---
 
-## 📄 License
+## 📄 Author
 
-Each contract is released under the **MIT License**, as declared in its SPDX header.
+Ridhima Gadalay
+
+
